@@ -1,8 +1,23 @@
-.class {
-    margin-top: 100px;
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap");
+html,
+body {
+  height: 100%;
 }
 
-.input_space {
-    padding-top: 10px;
-    padding-bottom: 20px;
+body {
+  font-family: "Roboto Mono", monospace !important;
+}
+
+.bg-color {
+  background-color: #3cc6e8;
+}
+
+.button-update {
+  width: 40px;
+  height: 40px;
+}
+.button-done {
+  width: 40px;
+  height: 40px;
+  background-color: greenyellow;
 }
