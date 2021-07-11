@@ -5,7 +5,7 @@ var list = [];
 
 // var list = ["Eat", "Sleep", "Code"];
 
-//Add new item
+//Add new item 
 var addBtn = document.getElementById("add-btn");
 // addBtn.onclick = addItem;
 addBtn.addEventListener("click", addItem);
